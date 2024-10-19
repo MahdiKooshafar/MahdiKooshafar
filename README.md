@@ -1,8 +1,4 @@
-<style>
-h1{
-    color: blueviolet;
-}
-</style>
+
 <h1 align="center">Hi 👋, I'm mahdi</h1>
 <h3 align="center">A passionate full stack developer from Iran</h3>
 
