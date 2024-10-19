@@ -1,3 +1,4 @@
+![Styled Content](style.svg)
 
 <h1 align="center">Hi 👋, I'm mahdi</h1>
 <h3 align="center">A passionate full stack developer from Iran</h3>
