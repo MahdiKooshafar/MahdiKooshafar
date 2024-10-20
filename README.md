@@ -1,1 +1,1 @@
-![Styled Content](style.svg)
+![Styled Content](style..svg)
